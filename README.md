@@ -11,3 +11,11 @@ Learning rust in the open. Committing everything I learn, big and small.
 > Rust is an ahead-of-time compiled language, meaning you can compile a program and give the executable to someone else, and they can run it even without having Rust installed.
 >
 > <https://doc.rust-lang.org/book/ch01-02-hello-world.html>
+
+Key commands:
+
+```rs
+cargo build
+cargo run <-- main one
+cargo check
+```
