@@ -16,6 +16,8 @@ Key commands:
 
 ```rs
 cargo build
-cargo run <-- main one
+cargo run // main one
 cargo check
 ```
+
+No string interpolation. Appalling.
