@@ -21,3 +21,7 @@ cargo check
 ```
 
 No string interpolation. Appalling.
+
+> A few number types can have a value between 1 and 100: i32, a 32-bit number; u32, an unsigned 32-bit number; i64, a 64-bit number; as well as others. Rust defaults to an i32, which is the type of secret_number unless you add type information elsewhere that would cause Rust to infer a different numerical type.
+>
+> <https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html>
